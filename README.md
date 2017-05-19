@@ -3,7 +3,6 @@ Sengine is based on the Nginx HTTP server.
 
 Features
 
-支持Windows
-支持IOCP
-支持TransmitFile
-支持gb2312中文文件路径
+支持Windows（IOCP、TransmitFile、中文路径）
+
+支持ProxyCache
